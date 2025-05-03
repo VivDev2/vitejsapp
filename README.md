@@ -1,1 +1,1 @@
-# this is a  react tevel app source code repo
+this is treavel ui app created by mi for the internshpi task
